@@ -1,7 +1,7 @@
 ![Imagen decorativa de tu perfil](https://github.com/DorianDesings/readme-demos/blob/main/profile-image.jpeg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
+<h1 align="center">Hola 👋, Soy OSCAR MORENO</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
